@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SplashAnimation</string>
+    <string name="txt_description_logo">Logo de uma iguana verde com a lingua para fora</string>
+    <string name="txt_logo_name">Estúdios Iguana</string>
+    <string name="txt_info">Estúdio de desenvolvimento Mobile e Web</string>
+</resources>
